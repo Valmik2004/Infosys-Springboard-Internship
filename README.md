@@ -1,6 +1,3 @@
-# Infosys-Springboard-Internship
-This repository contains all the Python tasks completed during the Infosys Springboard Internship period.
-
 # Infosys Springboard Internship
 
 This repository contains all the **Python tasks and assignments** given by my mentor/guide during the **Infosys Springboard Internship**.  
