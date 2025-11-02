@@ -35,6 +35,7 @@ Each notebook demonstrates the implementation of key data science steps such as:
 ---
 
 ## 📂 Repository Structure
+```
 Infosys-Springboard-Internship/
 │
 ├── Day1_Tasks.ipynb
@@ -42,3 +43,4 @@ Infosys-Springboard-Internship/
 ├── Day3_Tasks.ipynb
 ├── Day4_Tasks.ipynb
 └── README.md
+```
