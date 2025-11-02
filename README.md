@@ -1,6 +1,6 @@
 # Infosys Springboard Internship
 
-This repository contains all the **Python tasks and assignments** given by my mentor/guide during the **Infosys Springboard Internship**.  
+This repository contains all the **Python tasks and assignments** given by our guide during the **Infosys Springboard Internship**, uploaded up to the tasks completed till now.
 Each task focuses on building hands-on skills in **Machine Learning, Natural Language Processing (NLP)**, and **Data Analysis** using Python.
 
 ---
