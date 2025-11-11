@@ -42,5 +42,9 @@ Infosys-Springboard-Internship/
 ├── Day2_Tasks.ipynb
 ├── Day3_Tasks.ipynb
 ├── Day4_Tasks.ipynb
+|-  Day5_Tasks.ipynb
+|-  Day6_Tasks.ipynb
+|-  Day7_Tasks.ipynb
+|-  Day8_Tasks.ipynb
 └── README.md
 ```
