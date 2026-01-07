@@ -11,7 +11,7 @@ Each notebook demonstrates the implementation of key data science steps such as:
 - Data cleaning and preprocessing  
 - Feature extraction using Bag of Words (BoW) and TF-IDF  
 - Model training and evaluation
-- Performance comparison of ML models  
+- Performance comparison of ML Models.
 
 ---
 
