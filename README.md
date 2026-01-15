@@ -4,7 +4,7 @@ This repository contains all the **Python tasks and assignments** given by our g
 Each task focuses on building hands-on skills in **Machine Learning, Natural Language Processing (NLP)**, and **Data Analysis** using python.
 ---
 
-## 📚 About the Repository
+## 📚 About the Repository.
 The tasks uploaded here were part of my internship learning journey.  
 Each notebook demonstrates the implementation of key data science steps such as:
 - Data loading and exploration  
