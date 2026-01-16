@@ -33,7 +33,7 @@ Each notebook demonstrates the implementation of key data science steps such as:
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Structure.
 ```
 Infosys-Springboard-Internship/
 │
