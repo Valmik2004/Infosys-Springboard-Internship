@@ -16,7 +16,7 @@ Each notebook demonstrates the implementation of key data science steps such as:
 ---
 
 ## 🧠 Learning Objectives
-- Strengthen understanding of the Machine Learning ppipeline
+- Strengthen understanding of the Machine Learning pipeline
 - Gain practical exposure to real-world data handling  
 - Apply NLP concepts for text-based data analysis  
 - Develop confidence in using libraries like `pandas`, `scikit-learn`, and `nltk`  
